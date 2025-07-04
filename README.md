@@ -65,14 +65,18 @@ As an HR Analyst, my goal was to provide actionable insights to the CHRO and man
 
 | Insight | Screenshot |
 |--------|------------|
-| Gender Distribution by Department | ![Gender Distribution](images/gender_distribution.png) |
-| Ratings by Gender | ![Ratings](images/rating_by_gender.png) |
-| Salary by Gender & Department | ![Salary](images/salary_by_gender_department.png) |
-| Salary Band Distribution | ![Salary Band](images/salary_band_distribution.png) |
-| Bonus Table and Total Pay | ![Bonus](images/bonus_table.png) |
+| Gender Distribution by Department | ![gender distribution by department](https://github.com/user-attachments/assets/c1926603-24d1-4253-a922-882eb9eb5624)|
+| Ratings by Gender | ![ratings by gender](https://github.com/user-attachments/assets/6d1b9ab2-4414-412e-bbaa-58ab90e62820)|
+| Salary by Gender & Department | ![salary by gender   department](https://github.com/user-attachments/assets/f89f3e54-57b7-492e-ada3-c618103698f3)|
+| Salary Band Distribution | ![salary band distribution](https://github.com/user-attachments/assets/00f091c4-0c71-4486-928d-0df2de7b88f0)|
+| Bonus Table and Total Pay | ![bonus table and total pay](https://github.com/user-attachments/assets/d49015b2-fb9a-4b49-8721-f281c99f5459)|
 
 ---
 
+## 📸 Dashboard Preview
+![pal dashboard screenshot](https://github.com/user-attachments/assets/712635b5-3f2d-47a9-93a7-a82eb70671d5)
+
+---
 ## 🎯 Recommendations
 
 - Recruit more women into underrepresented departments
